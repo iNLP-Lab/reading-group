@@ -15,7 +15,7 @@ Our reading groups welcome not only internal members but also **external guests*
 | Date       | Presenter       | Topic                                               | Slides |
 |------------|----------------|----------------------------------------------------|--------|
 | 20/08/2025  | Long P. Hoang  | A Discussion about GPT-OSS and GPT-5               | [Slides](https://isaac-lab.sg.larksuite.com/slides/RFULsHrq0lffkMdKennlShiSgki?from=from_copylink) |
-| 27/8/2025 | Rishabh        | On Red Teaming and Safety (Re)-Alignment of LLMs   | [Slides](2.%20Rishabh-SUTD-NLP-LAB_27Aug25.pdf) |
+| 27/08/2025 | Rishabh        | On Red Teaming and Safety (Re)-Alignment of LLMs   | [Slides](2.%20Rishabh-SUTD-NLP-LAB_27Aug25.pdf) |
 | 03/09/2025  | Chen Huang     | Scope and Effect of RL techniques on LLMs          | [Slides](https://isaac-lab.sg.larksuite.com/slides/Ibs9sBQMSlphIfdj2Mnl963Kg6d?from=from_copylink) |
 | 18/09/2025  | Ryner Tan    |           |  |
 ---
