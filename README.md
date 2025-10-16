@@ -17,7 +17,8 @@ This page contains the schedule of our biweekly reading group - where we share a
 | 03/09/2025 | [Chen Huang](https://www.linkedin.com/in/chen-huang-7297a51ab/)     | Scope and Effect of RL techniques on LLMs          | Discussion of *“Tricks or Traps? A Deep Dive into RL for LLM Reasoning”* (Alibaba Group), plus supplementary papers on RL methods. | [Slides](https://isaac-lab.sg.larksuite.com/slides/Ibs9sBQMSlphIfdj2Mnl963Kg6d?from=from_copylink) |
 | 18/09/2025 | [Ryner Tan](https://www.linkedin.com/in/ryner-tan/)      | Trends in Reasoning in LLMs | "Implicit Reasoning in Large Language Models: A Comprehensive Survey", with other papers for details | [Slides](https://isaac-lab.sg.larksuite.com/file/ToQEbZgjaoJGvwxuHAZlJDWygNd?from=from_copylink)    |
 | 02/10/2025 | [Yi Feng](https://www.linkedin.com/in/yi-feng-999476343/)      | Persona vectors: Monitoring and controlling character traits in language models  | A discussion about paper "Persona vectors: Monitoring and controlling character traits in language models"   | [Slides](https://docs.google.com/presentation/d/1vp-loSuqDN3r8OTFbOU0NrgeGJFom7i07-Byw5Qlo08/edit?usp=sharing)      |
-| 16/10/2025 | [Shao Yang](https://shaoyangxu.github.io/)      | -   | -      | - |
+| 16/10/2025 |   [Yifei Yang](https://scholar.google.com/citations?user=UxAb3eQAAAAJ&hl=zh-CN)   | Research Seminar about LLM Efficiency   | Pruning, KV Cache, Model Scaling Up      | - |
+| 30/10/2025 | [Shao Yang](https://shaoyangxu.github.io/)      | -   | -      | - |
 ---
 
 
