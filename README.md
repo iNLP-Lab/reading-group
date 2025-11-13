@@ -19,7 +19,9 @@ This page contains the schedule of our biweekly reading group - where we share a
 | 02/10/2025 | [Yi Feng](https://www.linkedin.com/in/yi-feng-999476343/)      | Persona vectors: Monitoring and controlling character traits in language models  | A discussion about paper "Persona vectors: Monitoring and controlling character traits in language models"   | [Slides](https://docs.google.com/presentation/d/1vp-loSuqDN3r8OTFbOU0NrgeGJFom7i07-Byw5Qlo08/edit?usp=sharing)      |
 | 16/10/2025 |   [Yifei Yang](https://scholar.google.com/citations?user=UxAb3eQAAAAJ&hl=zh-CN)   | Research Seminar about LLM Efficiency   | Pruning, KV Cache, Model Scaling Up      | - |
 | 30/10/2025 | [Shao Yang](https://shaoyangxu.github.io/)      | Recent Research on  Reasoning, Culture, Safety, and Multimodality of LLMs  in Multilingual Contexts   | -      | [Slides](https://isaac-lab.sg.larksuite.com/slides/Hu1ms30lPlafnPdvPIjlFBRcghh?from=from_copylink) |
-| 13/11/2025 | [Guizhen Chen](https://www.linkedin.com/in/chenguizhen/)      |    | -      |  |
+| 13/11/2025 | [Guizhen Chen](https://www.linkedin.com/in/chenguizhen/)      |  From “thinking about images” to “thinking with images”  | -      | [Slides](https://isaac-lab.sg.larksuite.com/file/V5utbonMFo6tEhxl79nl2bicgqA?from=from_copylink) |
+| 27/11/2025 | [Zheng Li](https://zhengli97.github.io)      |  Research Seminar by Zheng Li (Nankai U)  | -      | - |
+
 ---
 
 
