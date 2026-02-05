@@ -14,6 +14,7 @@ This page contains the schedule of our weekly reading group - where we share and
 | Date       | Presenter       | Content | Slides |
 |------------|----------------|------------------------------------------------------------------------------------------------------------------|--------|
 |  28/01/2026       |  [Zhibo Man](https://www.linkedin.com/in/zhibo-man-67771336a/)              | Exploring Multi-Agent Frameworks for Research with LLMs: Paper2Review & Paper2Rebuttal | [Slides](https://isaac-lab.sg.larksuite.com/wiki/QDNywb7koioeYpkKO2xlTmoEgkc?from=from_copylink)      |
+| 04/02/2026| [Pengyang Shao](https://scholar.google.com/citations?user=kqODdxgAAAAJ) | LLM Unlearning: From Balanced Disentanglement to Local Entropy Maximization | [Slides](https://isaac-lab.sg.larksuite.com/file/RCPxbHKoWo6G5AxNfZPlp6Kug8b?from=from_copylink) |
 ---
 
 ## 📚 Past Meetings
