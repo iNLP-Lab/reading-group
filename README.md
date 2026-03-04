@@ -17,6 +17,7 @@ This page contains the schedule of our weekly reading group - where we share and
 | 04/02/2026| [Pengyang Shao](https://scholar.google.com/citations?user=kqODdxgAAAAJ) | LLM Unlearning: From Balanced Disentanglement to Local Entropy Maximization | [Slides](https://isaac-lab.sg.larksuite.com/file/RCPxbHKoWo6G5AxNfZPlp6Kug8b?from=from_copylink) |
 | 11/02/2026| [Yuyang Dai](https://yuyang0915.github.io/yuyangdai.github.io/index.html) | Exploring Silicon-Based Societies: An Early Study of the Moltbook Agent Community | [Slides](https://docs.google.com/presentation/d/1KYQzSi8KiXw7JmLU7VL1KKTFndYFb59X44XIy2qH6vM/edit?slide=id.p1#slide=id.p1) |
 | 25/02/2026 | [Long P. Hoang](https://longhp1618.github.io)  | Steering Transferability in Activation Space | [Slides](https://isaac-lab.sg.larksuite.com/file/JRKWbLQ9NoSUKYxHcRAlI1kegEf?from=from_copylink) |
+| 04/03/2026 | [Ryner Tan](https://www.linkedin.com/in/ryner-tan/)  | Distillation: Techniques and Defenses | [Slides](https://isaac-lab.sg.larksuite.com/file/OUYsbcGQRoBE47xb5sOlcVkugLl?from=from_copylink) |
 ---
 
 ## 📚 Past Meetings
