@@ -19,6 +19,7 @@ This page contains the schedule of our weekly reading group - where we share and
 | 25/02/2026 | [Long P. Hoang](https://longhp1618.github.io)  | Steering Transferability in Activation Space | [Slides](https://isaac-lab.sg.larksuite.com/file/JRKWbLQ9NoSUKYxHcRAlI1kegEf?from=from_copylink) |
 | 04/03/2026 | [Ryner Tan](https://www.linkedin.com/in/ryner-tan/)  | Distillation: Techniques and Defenses | [Slides](https://isaac-lab.sg.larksuite.com/file/OUYsbcGQRoBE47xb5sOlcVkugLl?from=from_copylink) |
 | 18/03/2026 | [Shaoyang Xu](https://shaoyangxu.github.io/)  | From "Artificial Hivemind" to Diversity in LLM Research | [Slides](https://isaac-lab.sg.larksuite.com/slides/Vga7seYUblXsg6dNS9qlTW0qgQc?from=from_copylink) |
+| 25/03/2026 | [Chen Huang](https://scholar.google.com/citations?user=FZh5-XYAAAAJ&hl=en)  | Reasoning Models Struggle to Control their Chains of Thought | [Slides](https://isaac-lab.sg.larksuite.com/slides/Xo3IshLUvli6hrdbKGCloUS0gRd?from=from_copylink) |
 ---
 
 ## 📚 Past Meetings
