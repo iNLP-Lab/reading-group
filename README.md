@@ -20,7 +20,8 @@ This page contains the schedule of our weekly reading group - where we share and
 | 04/03/2026 | [Ryner Tan](https://www.linkedin.com/in/ryner-tan/)  | Distillation: Techniques and Defenses | [Slides](https://isaac-lab.sg.larksuite.com/file/OUYsbcGQRoBE47xb5sOlcVkugLl?from=from_copylink) |
 | 18/03/2026 | [Shaoyang Xu](https://shaoyangxu.github.io/)  | From "Artificial Hivemind" to Diversity in LLM Research | [Slides](https://isaac-lab.sg.larksuite.com/slides/Vga7seYUblXsg6dNS9qlTW0qgQc?from=from_copylink) |
 | 25/03/2026 | [Chen Huang](https://scholar.google.com/citations?user=FZh5-XYAAAAJ&hl=en)  | Reasoning Models Struggle to Control their Chains of Thought | [Slides](https://isaac-lab.sg.larksuite.com/slides/Xo3IshLUvli6hrdbKGCloUS0gRd?from=from_copylink) |
-| 01/04/2026 | [Yi Feng](https://mimify.github.io/)  | Benchmarks & Agentic RL in the Claw Era | [Slides]([2026.4.1_YiFeng_Benchmarks & Agentic RL in the Claw Era.pdf](https://isaac-lab.sg.larksuite.com/file/YyOBb481oobLbcxYHgWlZycFgnX?from=from_copylink)) |
+| 01/04/2026 | [Yi Feng](https://mimify.github.io/)  | Benchmarks & Agentic RL in the Claw Era | [Slides](https://isaac-lab.sg.larksuite.com/file/YyOBb481oobLbcxYHgWlZycFgnX?from=from_copylink) |
+| 08/04/2026 | [Le Viet Hai](https://www.linkedin.com/in/lehaivin03)  | Discussion on Recent Claude Leak | [Slides](https://isaac-lab.sg.larksuite.com/file/LBKBbBZD2ovxKgxZF3AlHwVxgZc?from=from_copylink) |
 ---
 
 ## 📚 Past Meetings
