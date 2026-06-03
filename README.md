@@ -22,9 +22,9 @@ This page contains the schedule of our weekly reading group - where we share and
 | 25/03/2026 | [Chen Huang](https://scholar.google.com/citations?user=FZh5-XYAAAAJ&hl=en)  | Reasoning Models Struggle to Control their Chains of Thought | [Slides](https://isaac-lab.sg.larksuite.com/slides/Xo3IshLUvli6hrdbKGCloUS0gRd?from=from_copylink) |
 | 01/04/2026 | [Yi Feng](https://mimify.github.io/)  | Benchmarks & Agentic RL in the Claw Era | [Slides](https://isaac-lab.sg.larksuite.com/file/YyOBb481oobLbcxYHgWlZycFgnX?from=from_copylink) |
 | 08/04/2026 | [Le Viet Hai](https://www.linkedin.com/in/lehaivin03)  | Discussion on Recent Claude Leak | [Slides](https://isaac-lab.sg.larksuite.com/file/LBKBbBZD2ovxKgxZF3AlHwVxgZc?from=from_copylink) |
-| 08/04/2026 | [Suhyun Lee](https://www.linkedin.com/in/suhyunleenlpai/)  | From “What Is Your AI Agent Buying?” to “Sparks of Rationality”
- | [Slides](https://docs.google.com/presentation/d/1anE8YCC_P3GzFzpk20nwM_KiT-xvC_UU/edit?usp=sharing&ouid=104154899428150461979&rtpof=true&sd=true) |
-| 08/04/2026 | [Matthew Christopher Pohadi](https://matthewchristopherpohadi.vercel.app/)  | Paradigm Routing, ToTool Use, and Multimodal Search | [Slides](https://isaac-lab.sg.larksuite.com/file/CLtZbOCB6oEdG9xIVn7lX3p2gXf) |
+| 06/05/2026 | [Suhyun Lee](https://www.linkedin.com/in/suhyunleenlpai/)  | From “What Is Your AI Agent Buying?” to “Sparks of Rationality” | [Slides](https://docs.google.com/presentation/d/1anE8YCC_P3GzFzpk20nwM_KiT-xvC_UU/edit?usp=sharing&ouid=104154899428150461979&rtpof=true&sd=true) |
+| 13/05/2026 | [Matthew Christopher Pohadi](https://matthewchristopherpohadi.vercel.app/)  | Paradigm Routing, ToTool Use, and Multimodal Search | [Slides](https://isaac-lab.sg.larksuite.com/file/CLtZbOCB6oEdG9xIVn7lX3p2gXf) |
+| 03/06/2026 | [Long P. Hoang](https://longhp1618.github.io)  | Diffusion Language Models | [Slides](https://isaac-lab.sg.larksuite.com/file/Quj8b9cJzoHFd5xXRytlpZIegvc?from=from_copylink) |
 ---
 
 ## 📚 Past Meetings
