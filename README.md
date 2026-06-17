@@ -25,7 +25,8 @@ This page contains the schedule of our weekly reading group - where we share and
 | 06/05/2026 | [Suhyun Lee](https://www.linkedin.com/in/suhyunleenlpai/)  | From “What Is Your AI Agent Buying?” to “Sparks of Rationality” | [Slides](https://docs.google.com/presentation/d/1anE8YCC_P3GzFzpk20nwM_KiT-xvC_UU/edit?usp=sharing&ouid=104154899428150461979&rtpof=true&sd=true) |
 | 13/05/2026 | [Matthew Christopher Pohadi](https://matthewchristopherpohadi.vercel.app/)  | Paradigm Routing, ToTool Use, and Multimodal Search | [Slides](https://isaac-lab.sg.larksuite.com/file/CLtZbOCB6oEdG9xIVn7lX3p2gXf) |
 | 03/06/2026 | [Long P. Hoang](https://longhp1618.github.io)  | Diffusion Language Models | [Slides](https://isaac-lab.sg.larksuite.com/file/Quj8b9cJzoHFd5xXRytlpZIegvc?from=from_copylink) |
-| 25/03/2026 | [Chen Huang](https://albuschen.github.io/)  | When AI Builds Itself | [Slides](https://isaac-lab.sg.larksuite.com/file/XXhkbb3XYoaHE4xdFrClOYfAgph?from=from_copylink) |
+| 10/06/2026 | [Chen Huang](https://albuschen.github.io/)  | When AI Builds Itself | [Slides](https://isaac-lab.sg.larksuite.com/file/XXhkbb3XYoaHE4xdFrClOYfAgph?from=from_copylink) |
+| 17/06/2026 | [Shaoyang Xu](https://shaoyangxu.github.io/)  | Anthropic's Fable 5 | [Slides](https://isaac-lab.sg.larksuite.com/slides/BTHvs56CPljXO8dBIawluhV5gKf?from=from_copylink) |
 ---
 
 ## 📚 Past Meetings
